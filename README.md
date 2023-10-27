@@ -19,5 +19,8 @@ Our approach can be broken down into several steps below:
 ###  Collecting Follower
 
 We used a final list of 1,604 American politicians, journalists, and news media with their corresponding ideology scores from [Twitter score](https://github.com/sdmccabe/new-tweetscores). The ideology scores for these elites range from  -0.925, i.e., most liberal, to 2.155, i.e. most conservative political elite. [Twitter score](https://github.com/sdmccabe/new-tweetscores) have used the NOMINATE score of 116th Congress members to show that despite the asymmetry, 0 is the point that separates left-leaning and right-leaning politicians, journalists, and news media. 
-The code for collecting followers can be found in [Parallel-follower-collection.py](Parallel-follower-collection.py)
+
 We collected all the followers of these 1,604 politicians, journalists, and news media on Twitter for a total of 16,472,360 unique followers and a total of 862,409,644 following relationships between the unique Twitter users and the 1,604 political elites. 
+
+The code for collecting followers can be found in [Parallel-follower-collection.py](Parallel-follower-collection.py)
+
