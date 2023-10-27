@@ -18,4 +18,5 @@ Our approach can be broken down into several steps below:
 
 ###  Collecting Follower
 
-We used a final list of 1,604 American politicians, journalists, and news media with their corresponding ideology scores from tweetscore(https://github.com/sdmccabe/new-tweetscores).
+We used a final list of 1,604 American politicians, journalists, and news media with their corresponding ideology scores from [Twitter score](https://github.com/sdmccabe/new-tweetscores).
+The code for collecting followers can be found in [Parallel-follower-collection.py](Parallel-follower-collection.py)
