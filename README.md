@@ -31,3 +31,9 @@ The slant score of a video ($` v`$) is the weighted average of the ideology of a
 $$ v = \frac{ \sum_{u=1}^{N_u} \sum_{i=1}^{N_{pol}} Pscore_{i,u} }{N_u \cdot N_{pol} } $$
 
  $` Pscore(i,u) `$ denotes the ideology score of the politician, journalist, and/or a news media outlet $` i`$ followed by the user $` u`$, $` N_u`$ denotes the total number of users who tweeted the video, and $` N_{pol}`$ denotes the total number of politicians, journalists, or news media outlets followed by each user. 
+
+ We used the code in [Parallel-follower-mapping-score.py](Parallel-follower-mapping-score.py) to mape the score between users to tweets. 
+
+ ### Collecting Tweets 
+
+ 
