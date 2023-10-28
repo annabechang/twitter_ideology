@@ -34,6 +34,6 @@ $$ v = \frac{ \sum_{u=1}^{N_u} \sum_{i=1}^{N_{pol}} Pscore_{i,u} }{N_u \cdot N_{
 
  We used the code in [Parallel-follower-mapping-score.py](Parallel-follower-mapping-score.py) to mape the score between users to tweets. 
 
- ### Collecting Tweets 
+Our slant scores are consistent with outputs of other classification approaches, correlating at 0.88 or higher with slant scores based on Twitter following patterns (Auditing Partisan Audience Bias within Google Search) and on manual labeling of political slant of news organizations Ad Fontes Media. 
 
  
