@@ -8,7 +8,7 @@ Less partisan polarization in consumption of non-political YouTube videos compar
 @article{jqdfollowing,
     author  = " Wojcieszak, Magdalena and Chang, Rong-Ching and Menchen-Trevino, Ericka ", 
     title = "Less partisan polarization in consumption of non-political YouTube videos compared to news and political videos: Evidence from online data in the U.S",
-    year    = 2024,
+    year    = 2023,
     journal = "JQD:DM"}
 ```
 
